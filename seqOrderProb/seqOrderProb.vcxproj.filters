@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{93468521-f7d1-43f5-bdd8-5b9311072180}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TestGraphs">
+      <UniqueIdentifier>{c0d7c4e2-a108-45fd-89cb-b0c647863423}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9ff16374-f125-4d0f-8c8c-8145f5c564d9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="timer_utility.hpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\testGraphs\br17.10.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\br17.12.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ESC07.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ESC11.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ESC12.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ESC25.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ESC47.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ESC63.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ESC78.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ft53.1.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ft53.2.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ft53.3.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ft53.4.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ft70.1.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ft70.2.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ft70.3.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ft70.4.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\kro124p.1.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\kro124p.2.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\kro124p.3.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\kro124p.4.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\p43.1.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\p43.2.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\p43.3.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\p43.4.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\prob.42.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\prob.100.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\rbg048a.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\rbg050c.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\rbg109a.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\rbg150a.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\rbg174a.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\rbg253a.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\rbg323a.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\rbg341a.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\rbg358a.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\rbg378a.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ry48p.1.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ry48p.2.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ry48p.3.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+    <None Include="..\testGraphs\ry48p.4.sop">
+      <Filter>TestGraphs</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="misc.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="genetic.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="swarm.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
